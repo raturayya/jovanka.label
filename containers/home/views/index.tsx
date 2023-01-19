@@ -16,7 +16,7 @@ const HomeView = () => {
           </Link>
         </div>
         <div className="flex">
-          <img className="-mt-2 max-w-fit ml-20" src="/src/landing.png"></img>
+          <img className="mt-12 max-w-[550px] ml-20" src="/src/landing.png"></img>
         </div>
       </div>
       <Footer/>
